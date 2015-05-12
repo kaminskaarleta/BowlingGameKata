@@ -1,5 +1,6 @@
 package test;
 import static org.junit.Assert.*;
+import main.Game;
 
 import org.junit.Test;
 
