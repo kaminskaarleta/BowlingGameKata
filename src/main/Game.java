@@ -2,13 +2,10 @@ package main;
 
 public class Game {
 
-	public void roll(int i) {
-		// TODO Auto-generated method stub
-		
+	public void roll(int pins) {
 	}
 
 	public int score() {
-		// TODO Auto-generated method stub
 		return 0;
 	}
 
